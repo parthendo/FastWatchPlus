@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Build
+/build/
+cmake-build*/
+compiler/onnx-mlir/onnx-mlir/build/
+models/*.pt
+models/*.onnx
+models/compiled/
+benchmarks/*.log
+
+# VSCode / OS
+.vscode/
+.DS_Store
