@@ -1,4 +1,4 @@
-# yolo-cat-watch (PyTorch → ONNX → onnx-mlir)
+# fast-watch-plus (PyTorch → ONNX → onnx-mlir exploratory project)
 
 Minimal app that watches a bowl, detects a **cat** in a hardcoded ROI, and sends a WhatsApp message via Twilio when the cat stays ≥ N seconds.
 
